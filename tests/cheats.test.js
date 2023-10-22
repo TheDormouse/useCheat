@@ -1,5 +1,5 @@
 const { renderHook, act } = require("@testing-library/react-hooks");
-const { useCheat, useKonamiCode } = require("./useKonamiCode"); // Adjusting the import
+const { useCheat, useKonamiCode } = require("../useKonamiCode"); // Adjusting the import
 
 describe("useCheatCode hook", () => {
   let map = {};

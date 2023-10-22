@@ -1,0 +1,8 @@
+# Directories
+tests/
+node_modules/
+
+# Specific files
+*.log
+
+# or any other directories or files you want to exclude from the npm package
