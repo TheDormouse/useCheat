@@ -1,5 +1,5 @@
 {
-  "name": "usecheat",
+  "name": "@marchhareco/usecheat",
   "version": "1.0.0",
   "description": "Detect cheatcode entry with React",
   "main": "useKonamiCode.js",
