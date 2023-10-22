@@ -60,8 +60,9 @@ function MyComponent() {
 
 To run tests, use the following command:
 
-\*\*shell
+```shell
 npm test
+```
 
 ## Contributing
 
